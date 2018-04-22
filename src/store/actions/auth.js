@@ -44,7 +44,9 @@ export const authStateChange = () => {
     return dispatch => {
         firebase.auth().onAuthStateChanged((user) => {
             dispatch(authSuccess(user))
-            dispatch(fetchUserOffers(user.uid))
+            if(user) {
+                dispatch(fetchUserOffers(user.uid))
+            }
         })
     }
 }

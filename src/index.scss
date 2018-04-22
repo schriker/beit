@@ -438,6 +438,7 @@ nav {
         font-size: 1.25rem;
         transition: all 0.3s ease;
         border-right: 1px solid #eaeaea;
+        outline: none;
         svg {
             margin: 0 0 0 20px;
             color: $font-color-second;
@@ -697,7 +698,8 @@ nav {
         }
     }
     &__autohor-detials {
-        font-size: 1.25rem;
+        font-size: 1.20rem;
+        font-weight: 400;
     }
     &__social-icons {
         a {
@@ -708,7 +710,7 @@ nav {
     &__skills {
         margin: 50px 0 0 0;
         font-weight: 700;
-        font-size: 1.5rem;
+        font-size: 1.35rem;
         display: flex;
         flex-wrap: wrap;
         &__item {
