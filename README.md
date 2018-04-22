@@ -1,8 +1,8 @@
-![https://beit-f0e7e.firebaseapp.com/](http://kulinarnyprzepis.pl/index.jpg)
-
-# BeIT
+# BeIT - [View Online](https://beit-f0e7e.firebaseapp.com/)
 
 Create, read, update and delete - App build with React.
+
+![BeIT](http://kulinarnyprzepis.pl/index.jpg)
 
 ## Build with
 
