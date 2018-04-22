@@ -7,5 +7,7 @@ Create, read, update and delete - App build with React.
 ## Build with
 
 * [React](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
+* [Router](https://reacttraining.com/react-router/)
 * [SaaS](https://sass-lang.com/)
 * [Firebase](https://firebase.google.com/)
